@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Requettie
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently working with Bootstrap
 - 💞️ I’m looking to collaborate on any open source that uses JavaScript, HTML, CSS, game design
 
 <!---
