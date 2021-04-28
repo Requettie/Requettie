@@ -2,6 +2,8 @@
 
 I am uploading all of my projects on GitHub. Stay tuned.
 
+I work with game design, websites, and other open source projects I find intriguing. 
+
 Currently learning JavaScript, and OOP
 <!---
 Requettie/Requettie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
