@@ -1,4 +1,4 @@
-👋 [FOR HIRE] Junior Full Stack Developer
+👋 [FOR HIRE] Mid-Level Full Stack Developer
 
 I am uploading all of my projects on GitHub. Stay tuned.
 
